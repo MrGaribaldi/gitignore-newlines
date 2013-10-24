@@ -52,6 +52,9 @@ ipch/
 # Guidance Automation Toolkit
 *.gpState
 
+#just testing to see if I can reproduce the problem with a file getting newline changes
+/build
+
 # ReSharper is a .NET coding add-in
 _ReSharper*
 
@@ -108,3 +111,5 @@ Backup*/
 UpgradeLog*.XML
 
 # Here are some commnets
+
+generated_*.glsl
